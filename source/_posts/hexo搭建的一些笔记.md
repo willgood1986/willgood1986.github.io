@@ -1,7 +1,10 @@
 ---
 title: hexo搭建的一些笔记
 date: 2020-01-31 08:57:56
-tags: 后台维护
+tags: 
+   - hexo
+   - blog
+categories: Tech
 ---
 
 ## Node环境准备
